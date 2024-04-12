@@ -16,18 +16,16 @@ export const links = [
     hash: "#about",
   },
   {
-    name: "Projects",
-    hash: "#projects",
-  },
- 
-
-  {
     name: "Skills",
     hash: "#skills",
   },
   {
     name: "Experience",
     hash: "#experience",
+  },
+  {
+    name: "Projects",
+    hash: "#projects",
   },
   {
     name: "Contact",
@@ -132,10 +130,10 @@ export const projectsData = [
     imageUrl: rmtdevImg,
   },
   {
-    title: "Własna strona internetowa",
+    title: "4Sport",
     description:
-      "A public web app for quick analytics on text. It shows word count, character count and social media post limits.",
-    tags: ["React", "Next.js", "SQL", "Tailwind", "Framer"],
+      "Stworzyłem własną stronę internetową, podejmując wraz z kolegami inicjatywę, której celem jest promowanie zdrowego stylu życia poprzez wspólne bieganie.",
+    tags: ["HTML", "CSS", "JavaScript", "Netlify" ],
     imageUrl: wordanalyticsImg,
   },
 ] as const;

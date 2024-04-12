@@ -63,7 +63,7 @@ export default function Intro() {
         animate={{ opacity: 1, y: 0 }}
       >
         <span className="font-bold"> Nazywam się Jarek Szepelak i mam 24 lata.</span> {" "}
-        <span className="font-bold"></span> Jestem osobą ambitną oraz pełną energii i determinacji, gotową na nowe wyzwania.<br/> Moja pasja do technologii oraz zdolności, sprawiają że nie boję sie żadnej pracy {" "}
+        <span className="font-bold"></span> Jestem osobą ambitną oraz pełną energii i determinacji, gotową na nowe wyzwania.<br/> Moja pasja do technologii oraz zdolności, sprawiają że nie boję sie żadnej pracy. {" "}
         <span className="font-bold"></span> <br/> Jako młody profesjonalista, jestem otwarty na ciągłe doskonalenie swoich umiejętności oraz zdobywanie nowych doświadczeń.
          <span className="italic"></span>{" "}
         <span className="underline"> </span>

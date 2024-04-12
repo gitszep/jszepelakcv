@@ -34,7 +34,7 @@ export default function Contact() {
       <p className="text-gray-700 -mt-6 dark:text-white/80">
         Proszę skontaktuj się ze mna na{" "}
         <a className="underline" href="mailto:example@gmail.com">
-          szep@int.pl +48 508295782
+          szep@int.pl +48-884-803-964
         </a>{" "}
         lub wyślij wiadomość tutaj
       </p>
